@@ -7,5 +7,5 @@
 the files in a folder called build and put the output file in a folder called 
 output. you can run the build_project any where in the project directory and it will know where everything should go.
 5. after typeing build_project and the files are compiled and etc it ask if you
-want to run your code in compile or debug mode you choose by typeing r or d. It
+want to run your code in release or debug mode you choose by typeing r or d. It
 will run it and display the output.
